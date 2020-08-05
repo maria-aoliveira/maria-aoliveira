@@ -5,10 +5,10 @@
 -->
 
 
-- 🌱 Atualmente, estou no segundo período de Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente, estou no segundo período de Análise e Desenvolvimento de Sistemas.
 - 🔭 Estou aprendendo mais sobre desenvolvimento Front-End.
-- 💬 Tenho conhecimento de Python, Kotlin e Desenvolvimento Android
-- ⚡ Fun fact: Gosto de games, séries e hq's
+- 💬 Tenho conhecimento de Python, Kotlin e Desenvolvimento Android.
+- ⚡ Fun fact: Gosto de games, séries e hq's.
 - 📫 Entre em contato comigo em maria.aoliveira@infnet.edu.br ou clicando abaixo!
 
 
