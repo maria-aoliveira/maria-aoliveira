@@ -9,9 +9,9 @@ Olá, pessoal! 👋
 <p align='center'>
 
 - 🌱 Atualmente, estou no segundo período de Análise e Desenvolvimento de Sistemas.
-- 🔭 Estou aprendendo mais sobre desenvolvimento Front-End.
-- 💬 Tenho conhecimento de Python, Kotlin e Desenvolvimento Android.
-- ⚡ Fun fact: Gosto de games, séries e hq's.
+- 🔭 Gosto  bastante de desenvolvimento Front-End.
+- 💬 Tenho conhecimento de Python, Kotlin, Desenvolvimento Android e estou aprendendo Java agora.
+- ⚡ Fun fact: Gosto bastante de instrumentos musicais e tenho 3 (violino, teclado e um ukulele). 
 - 📫 Entre em contato comigo em maria.aoliveira@infnet.edu.br ou clicando abaixo!
 </p>
 
